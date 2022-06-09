@@ -56,7 +56,7 @@ function dvd(option) {
   const defaultSettings = {
     horizontal: true,
     vertical: true,
-    speed: 100,
+    speed: 75,
     bumpEdge: function () { },
   };
 
