@@ -1,5 +1,5 @@
 const bear = [
-  "https://7tv.app/emotes/603cbda573d7a5001441f9d5", //flushE
+  "https://cdn.7tv.app/emote/603cbda573d7a5001441f9d5/4x", //flushE
 
 ];
 
