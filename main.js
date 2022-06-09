@@ -34,8 +34,19 @@ const bear = [
   "https://cdn.betterttv.net/emote/61f6af3b06fd6a9f5be2bd73/3x", //Comfy
   "https://cdn.betterttv.net/emote/61f4bda806fd6a9f5be290bf/3x", //pepeJAM
   "https://cdn.7tv.app/emote/62477a2efb18d86dec72ad34/4x", //Barry63
-  "https://cdn.betterttv.net/emote/618f18da54f3344f8805695c/3x", //PepeHands
-  "https://cdn.betterttv.net/emote/618f18da54f3344f8805695c/3x", //PepeHands
+  "https://cdn.7tv.app/emote/61832dc08d50b5f26ee7be0d/4x", //bearWave
+  "https://cdn.7tv.app/emote/6129fa21a4d049e1797520e4/4x", //bubbsPls
+  "https://cdn.7tv.app/emote/60e8677677b18d5dd3800410/4x", //AlienPls
+  "https://cdn.7tv.app/emote/60aecb385174a619dbc175be/4x", //meow
+  "https://cdn.7tv.app/emote/60aed440997b4b396ed9ec39/4x", //peepoClap
+  "https://cdn.7tv.app/emote/60ae36ecb2ecb01505fcc586/4x", //KKool
+  "https://cdn.7tv.app/emote/60ae2cfb259ac5a73ed9a00c/4x", //AlienPls3
+  "https://cdn.7tv.app/emote/605305868c870a000de38b6f/4x", //LULE
+  "https://cdn.7tv.app/emote/6042af401d4963000d9dae36/4x", //docPls
+  "https://cdn.7tv.app/emote/6042091777137b000de9e66b/4x", //monkaOMEGA
+  "https://cdn.7tv.app/emote/603cbda573d7a5001441f9d5/4x", //flushE
+  "https://cdn.7tv.app/emote/603cb219c20d020014423c34/4x", //monkaE
+  "https://cdn.7tv.app/emote/603caee4c20d020014423c13/4x", //VeryPog
 
 ];
 
