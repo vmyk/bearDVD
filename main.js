@@ -139,7 +139,7 @@ function dvd(option) {
   }
 }
 dvd({
-  speed: 100 * (new URL(window.location.href).searchParams.get("speed") || 3),
+  speed: 50 * (new URL(window.location.href).searchParams.get("speed") || 3),
   bumpEdge: function () {
     document.querySelector(".bear").src =
       bear[Math.floor(Math.random() * bear.length)];
